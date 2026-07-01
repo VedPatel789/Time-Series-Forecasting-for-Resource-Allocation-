@@ -2,7 +2,6 @@
 
 ## Overview
 This project demonstrates an end-to-end **time-series forecasting system** using ARIMA to predict future demand and allocate resources efficiently.
-
 It simulates real-world business scenarios such as:
 - Cloud resource scaling
 - Hospital staffing
